@@ -1,0 +1,18 @@
+{
+  "name": "cypress-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  },
+  "dependencies": {
+    "@applitools/testgenai-cypress": "^0.8.4"
+  }
+}
